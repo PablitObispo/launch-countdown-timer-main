@@ -31,5 +31,5 @@ var counter = ()=>{
 }
 
 window.addEventListener("load", ()=>{
-    window.setInterval(counter, 1)
+    window.setInterval(counter, 1000)
 })
